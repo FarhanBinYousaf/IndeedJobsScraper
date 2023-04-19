@@ -59,6 +59,12 @@ with open(f'{query}_{location}_job_results.csv', 'w', newline='', encoding='utf-
             Detail = soup.find('div',class_='jobsearch-ViewJobLayout-innerContent') 
             JobType = ""
             vacancy = ""
+            PostedDate = ""
+            JobDescription = ""
+            FullDescription = ""
+            HiringInsights = ""
+            vacancySight  = ""
+            JobActivity = ""
             try:
                 job_type_element = Detail.select_one('div.css-rr5fiy > div:last-child')
                 if job_type_element:

@@ -1,0 +1,19 @@
+	
+=========================== Scraped Jobs ===========================
+
+1. Sales => 			751
+2. Web Developer => 		744
+3. Graphic Designer =>  	323 
+4. Engineer => 			241
+5. Data Entry => 		68
+6. Customer Service =>  	751
+7. Healthcare =>		151
+8. Education => 		751 
+9. Marketing => 		61
+10.Artificial Intelligence =>   16
+11.Data Analysis => 		301 + 8
+12.Science => 			12 + 20
+13.Human Resource => 		241
+14.Accountant => 		185
+============================================== 
+	Total => 		4624 
